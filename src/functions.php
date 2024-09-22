@@ -14,5 +14,6 @@ function mensajePersonalizado($mensaje){
 
 echo "Modificación desde la rama master";
 echo "Modificacion desde la rama funcionalidad-1";
+echo "Modificaciones desde la rama  funcionalidad-2";
 
 ?>
