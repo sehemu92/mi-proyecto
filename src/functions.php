@@ -7,4 +7,9 @@
 
     $nombre='function.php';
     echo saludar($nombre);
+
+function mensajePersonalizado($mensaje){
+	return "Este es el mensaje personalizado: ".$mensaje;
+}
+
 ?>
