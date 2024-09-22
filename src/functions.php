@@ -12,4 +12,6 @@ function mensajePersonalizado($mensaje){
 	return "Este es el mensaje personalizado: ".$mensaje;
 }
 
+echo "Modificación desde la rama master";
+
 ?>
